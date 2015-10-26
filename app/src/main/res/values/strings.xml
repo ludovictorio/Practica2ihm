@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string-array name="lugares">
+        <item>Fene</item>
+        <item>Barallobre</item>
+        <item>Maniños</item>
+        <item>Perlio</item>
+        <item>Mugardos</item>
+        <item>Cambados</item>
+        <item>A rúa</item>
+        <item>Finisterre</item>
+        <item>Noia</item>
+        <item>Louro</item>
+        <item>Muros</item>
+        <item>Sanxenxo</item>
+    </string-array>
+</resources>
